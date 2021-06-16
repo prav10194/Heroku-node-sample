@@ -8,6 +8,6 @@ $ heroku create
 $ git add .
 $ git commit -m "Added files"
 
-$ git push heroku main
+$ git push heroku master
 $ heroku open
 ```
